@@ -1,0 +1,10 @@
+Lisa Simpson     2006303001  Computer Engineering  2000       01012345678  
+Gildong Hong     2004303077  Computer Engineering  1999       01187651234  
+Jisu Lee         2021257111  Computer Engineering  2000       01066261234  
+Soojung Lee      2021897810  Nursing               2000       01025673567  
+Peter Parker     2019315645  Chemistry             1998       01027362638  
+Jung Yu          2021463728  Business              1998       01098782736  
+Albert Einstein  2019892723  Physics               1997       01028973827  
+Yungwoo Woo      2021289031  Economics             2001       01090892837  
+Jina Lee         2019783829  Political Diplomacy   2000       01078928376  
+Timothy Budd     2019300928  Computer Engineering  2000       01029384736  
